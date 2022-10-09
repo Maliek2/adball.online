@@ -36,5 +36,5 @@ export default function NormalPage() {
         belly and purr when you are asleep. Lounge in doorway poop on grasses
         for lounge in doorway for chew iPad power cord.
       </p>
-       <h1>I'm just a normal old page, no AMP for me</h1>
+       <p>I'm just a normal old page, no AMP for me</p>
 }
